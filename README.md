@@ -1,4 +1,4 @@
-![Pablo_barba_github_profile](https://user-images.githubusercontent.com/9734029/121281658-8e404580-c8d8-11eb-9f19-97bbbeb0b35a.png) 
+![Pablo_barba_github_profile](https://user-images.githubusercontent.com/9734029/121377815-f3308580-c942-11eb-9e4a-71bc5ff30022.png)
 
 ### Description
 ~~~
