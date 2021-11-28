@@ -2,17 +2,15 @@
 
 ### About me
 ~~~
-- 🔭 I'm not currently working, but I am looking for an opportunity as a backend developer (remote).
-- 🌱 I’m currently learning Node with Express, MongoDB and Javascript, 
-- 🤔 I'm looking for a Frontend Developer Jr. for helping me in my future projects and making our own portfolio together.
+- 🔭 I'm Working at Capgemini as Batch developer using C++ and SQL as CORE. I like discover other programming languages.
 ~~~
 
 ### Skills
 ~~~
 - Nodejs, MongoDB, Express, Postman, Git
-- JavaScript, SQL
+- JavaScript, TypeScript, SQL, C++
 - Visual Studio Code, JSON, APIs Rest
-- Oracle SQL developer
+- Oracle SQL Server
 ~~~
 
 ### Education
@@ -31,5 +29,3 @@
 ~~~
 - Email: pabbarso181189@gmail.com
 ~~~
-
-
